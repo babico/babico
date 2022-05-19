@@ -6,5 +6,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=babico&show_icons=true&locale=tr&include_all_commits=true&count_private=true&theme=radical" width="200" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=babico&show_icons=true&locale=tr&layout=compact&langs_count=8&theme=radical" width="200" />
 </a>
-  <img align="center" src="https://komarev.com/ghpvc/?username=babico&color=blue" width="200" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=babico&color=blue" />
 </center>
