@@ -41,7 +41,7 @@
 
 
 ### Glad to see you here!  
-Hi I a boş adam!  
+Hi I am a boş adam!  
   
 
 <br/>  
