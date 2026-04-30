@@ -1,0 +1,20 @@
+{
+  "name": "babico",
+  "version": "1.0.0",
+  "description": "Müslüm Barış Korkmazer – card",
+  "main": "index.js",
+  "bin": {
+    "babico": "./bin/babico.js"
+  },
+  "scripts": {
+    "start": "node bin/babico.js"
+  },
+  "keywords": ["babico", "card"],
+  "author": "Müslüm Barış Korkmazer <baris@babico.tr>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babico/babico.git"
+  },
+  "homepage": "https://babico.tr"
+}

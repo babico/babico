@@ -1,0 +1,18 @@
+{
+  "name": "@babico/muslum.baris",
+  "version": "1.0.0",
+  "description": "Müslüm Barış Korkmazer – card",
+  "bin": {
+    "muslum.baris": "./bin/muslum.baris.js"
+  },
+  "dependencies": {
+    "babico": "latest"
+  },
+  "author": "Müslüm Barış Korkmazer <baris@babico.tr>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babico/babico.git"
+  },
+  "homepage": "https://babico.tr"
+}
